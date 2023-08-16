@@ -12,4 +12,3 @@ public class Mensaje {
         System.out.printf("Hola %s, bienvenido a Java \n", nombre);
     }
 }
-0
